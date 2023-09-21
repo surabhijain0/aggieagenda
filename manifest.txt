@@ -1,0 +1,2 @@
+Main-Class: AggieAgenda
+Class-Path: lib/postgresql-42.6.0.jar lib/jsoup-1.16.1.jar
